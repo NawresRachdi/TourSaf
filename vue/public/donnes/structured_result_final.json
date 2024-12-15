@@ -1,0 +1,604 @@
+[
+    {
+        "pays": "Emirats Arabes Unis",
+        "nom": "Burj Khalifa",
+        "description": "Le plus haut gratte-ciel du monde, une icône de l'architecture moderne.",
+        "safety": "84.4",
+        "urlimage": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Front_view_from_Burj_Khalifa_Metro_Station.jpg/640px-Front_view_from_Burj_Khalifa_Metro_Station.jpg"
+    },
+    {
+        "pays": "Japon",
+        "nom": "Mont Fuji",
+        "description": "Le sommet le plus eleve du Japon, un volcan majestueux.",
+        "safety": "77.4",
+        "urlimage": "https://th.bing.com/th/id/OIP.ehpfGHJI6VEwzqRE5_1QXwHaE9?w=315&h=180&c=7&r=0&o=5&pid=1.7"
+    },
+    {
+        "pays": "Chine",
+        "nom": "Grande Muraille de Chine",
+        "description": "Une ancienne serie de murs et de fortifications, symbole de l'ingeniosite architecturale chinoise.",
+        "safety": "75.1",
+        "urlimage": "https://th.bing.com/th/id/OIP.h1Kr4DxTPHcBmFoJz1lxxAHaE4?rs=1&pid=ImgDetMain"
+    },
+    {
+        "pays": "Chine",
+        "nom": "The Great Wall of China",
+        "description": "Une ancienne fortification en Chine, s'etendant sur plus de 21 000 kilomeetres.",
+        "safety": "75.1",
+        "urlimage": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/20090529_Great_Wall_8185.jpg/640px-20090529_Great_Wall_8185.jpg"
+    },
+    {
+        "pays": "Chine",
+        "nom": "Mont Huangshan",
+        "description": " Celèbres pour leurs paysages spectaculaires, leurs pins uniques, et leurs formations rocheuses mysterieuses",
+        "safety": "75.1",
+        "urlimage": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Mount-huangshan_53320837763_o.jpg/640px-Mount-huangshan_53320837763_o.jpg"
+    },
+    {
+        "pays": "Islande",
+        "nom": "Blue Lagoon",
+        "description": "Un spa geothermique avec des eaux chaudes et minerales.",
+        "safety": "74.6",
+        "urlimage": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/The_Blue_Lagoon_2.jpg/640px-The_Blue_Lagoon_2.jpg"
+    },
+    {
+        "pays": "Croatie",
+        "nom": "Parc National des Lacs de Plitvice",
+        "description": "Un ensemble de lacs en terrasses relies par des cascades spectaculaires, entoures de forêts luxuriantes.",
+        "safety": "74.0",
+        "urlimage": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Croatia_-_Plitvice_Lakes_National_Park.jpg/640px-Croatia_-_Plitvice_Lakes_National_Park.jpg"
+    },
+    {
+        "pays": "Croatie",
+        "nom": "Dubrovnik",
+        "description": "Surnommee la « Perle de l’Adriatique », cette ville medievale fortifiee est bordee par des eaux cristallines.",
+        "safety": "74.0",
+        "urlimage": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Dubrovnik_2016-05-26_DSC06252_view_from_the_wall.jpg/640px-Dubrovnik_2016-05-26_DSC06252_view_from_the_wall.jpg"
+    },
+    {
+        "pays": "Norvège",
+        "nom": "Îles Lofoten ",
+        "description": " Un archipel connu pour ses paysages spectaculaires, ses villages de pêcheurs traditionnels et ses aurores boreales.",
+        "safety": "67.4",
+        "urlimage": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Reine_i_Lofoten_LC0148.jpg/640px-Reine_i_Lofoten_LC0148.jpg"
+    },
+    {
+        "pays": "Roumanie",
+        "nom": "Château de Bran",
+        "description": "Connu sous le nom de 'Château de Dracula', il est entoure de mystères et de legendes.",
+        "safety": "66.3",
+        "urlimage": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Bran_Roumanie.jpg/640px-Bran_Roumanie.jpg"
+    },
+    {
+        "pays": "Espagne",
+        "nom": "Alhambra",
+        "description": "Un palais et une forteresse islamique a Grenade, celeebre pour ses jardins et ses mosaiques.",
+        "safety": "63.8",
+        "urlimage": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Alhambra_in_the_evening.jpg/640px-Alhambra_in_the_evening.jpg"
+    },
+    {
+        "pays": "Espagne",
+        "nom": "Sagrada Familia",
+        "description": "Une basilique inachevee de l'architecte Antoni Gaudí, un chef-d'œuvre de l'architecture moderniste.",
+        "safety": "63.8",
+        "urlimage": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/%CE%A3%CE%B1%CE%B3%CF%81%CE%AC%CE%B4%CE%B1_%CE%A6%CE%B1%CE%BC%CE%AF%CE%BB%CE%B9%CE%B1_2941.jpg/640px-%CE%A3%CE%B1%CE%B3%CF%81%CE%AC%CE%B4%CE%B1_%CE%A6%CE%B1%CE%BC%CE%AF%CE%BB%CE%B9%CE%B1_2941.jpg"
+    },
+    {
+        "pays": "Espagne",
+        "nom": "Alhambra",
+        "description": "Un palais et une forteresse islamique a Grenade, connu pour ses jardins, ses fontaines et ses mosaiques.",
+        "safety": "63.8",
+        "urlimage": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Dusk_Charles_V_Palace_Alhambra_Granada_Andalusia_Spain.jpg/640px-Dusk_Charles_V_Palace_Alhambra_Granada_Andalusia_Spain.jpg"
+    },
+    {
+        "pays": "Thaïlande",
+        "nom": "Koh Wai",
+        "description": "Cette structure sert de centre d’information pour le parc national de Mu Ko Chang. Koh Wai (île), Thaïlande.",
+        "safety": "62.1",
+        "urlimage": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Koh_Wai%2C_Thailand%2C_Mu_Ko_Chang_National_Park.jpg/640px-Koh_Wai%2C_Thailand%2C_Mu_Ko_Chang_National_Park.jpg"
+    },
+    {
+        "pays": "Thaïlande",
+        "nom": "Grand Palais",
+        "description": "Situé au cœur de Bangkok, le Grand Palais est une merveille architecturale et un lieu spirituel important.",
+        "safety": "62.1",
+        "urlimage": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Le_Grand_Palais_depuis_le_pont_Alexandre_III_%C3%A0_Paris.jpg/640px-Le_Grand_Palais_depuis_le_pont_Alexandre_III_%C3%A0_Paris.jpg"
+    },
+    {
+        "pays": "Thaïlande",
+        "nom": "Doi Suthep",
+        "description": "Doi Suthep est une montagne proche de Chiang Mai avec un temple offrant une vue panoramique sur la ville.",
+        "safety": "62.1",
+        "urlimage": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Wat_Phra_That_Doi_Suthep%2C_Stupa%2C_Doi_Suthep%2C_Thailand.jpg/640px-Wat_Phra_That_Doi_Suthep%2C_Stupa%2C_Doi_Suthep%2C_Thailand.jpg"
+    },
+    {
+        "pays": "Monténégro",
+        "nom": "Monasterio de Ostrog",
+        "description": "Le monastère d’Ostrog, un monastère de l’Église orthodoxe serbe situé au Monténégro",
+        "safety": "62.0",
+        "urlimage": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Monasterio_de_Ostrog%2C_Montenegro%2C_2014-04-14%2C_DD_11.JPG/640px-Monasterio_de_Ostrog%2C_Montenegro%2C_2014-04-14%2C_DD_11.JPG"
+    },
+    {
+        "pays": "Allemagne",
+        "nom": "Chateau de Neuschwanstein",
+        "description": "Un chateau de conte de fees situe en Baviere.",
+        "safety": "61.1",
+        "urlimage": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Neuschwanstein_Castle_from_Marienbr%C3%BCcke%2C_2011_May.jpg/640px-Neuschwanstein_Castle_from_Marienbr%C3%BCcke%2C_2011_May.jpg"
+    },
+    {
+        "pays": "Allemagne",
+        "nom": "Reichstag Building",
+        "description": "Le sieege du Parlement allemand a Berlin, un symbole de l'unification allemande.",
+        "safety": "61.1",
+        "urlimage": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Reichstag_building_Berlin_view_from_west_before_sunset.jpg/640px-Reichstag_building_Berlin_view_from_west_before_sunset.jpg"
+    },
+    {
+        "pays": "Allemagne",
+        "nom": "Brandenburg Gate",
+        "description": "Un symbole de la division et de l'unification de l'Allemagne, situe a Berlin.",
+        "safety": "61.1",
+        "urlimage": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Brandenburger_Tor_nachts.jpg/640px-Brandenburger_Tor_nachts.jpg"
+    },
+    {
+        "pays": "Russie",
+        "nom": "Red Square",
+        "description": "La place historique au cœur de Moscou, devant le Kremlin.",
+        "safety": "60.9",
+        "urlimage": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Moscow_July_2011-16.jpg/640px-Moscow_July_2011-16.jpg"
+    },
+    {
+        "pays": "Turquie",
+        "nom": "Ephesus",
+        "description": "Une ancienne cite grecque situee sur la côte de l'Anatolie, celeebre pour son temple d'Artemis.",
+        "safety": "59.1",
+        "urlimage": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Ruins_of_Ephesus_4.jpg/640px-Ruins_of_Ephesus_4.jpg"
+    },
+    {
+        "pays": "Turquie",
+        "nom": "Cappadocia",
+        "description": "Une region celeebre pour ses paysages lunaires, ses cheminees de fees et ses habitations troglodytes.",
+        "safety": "59.1",
+        "urlimage": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Cappadocia_March_2006.jpg/640px-Cappadocia_March_2006.jpg"
+    },
+    {
+        "pays": "Philippines",
+        "nom": "Banaue Rice Terraces",
+        "description": "Des rizieeres en terrasses impressionnantes construites il y a plus de 2000 ans par les ancêtres des Ifugao.",
+        "safety": "57.2",
+        "urlimage": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Banaue_Philippines_Batad-Rice-Terraces-02.jpg/640px-Banaue_Philippines_Batad-Rice-Terraces-02.jpg"
+    },
+    {
+        "pays": "Philippines",
+        "nom": "Île de Palawan",
+        "description": " Reputee pour ses plages immaculees, ses eaux cristallines et son parc national de la rivière souterraine de Puerto Princesa.",
+        "safety": "57.2",
+        "urlimage": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Limestone_island_in_Bacuit_Bay%2C_El_Nido%2C_Palawan%2C_Philippines.jpg/640px-Limestone_island_in_Bacuit_Bay%2C_El_Nido%2C_Palawan%2C_Philippines.jpg"
+    },
+    {
+        "pays": "Inde",
+        "nom": "Taj Mahal",
+        "description": "Un mausolee de marbre blanc, construit par l'empereur Shah Jahan en memoire de son epouse Mumtaz Mahal.",
+        "safety": "55.7",
+        "urlimage": "https://upload.wikimedia.org/wikipedia/commons/d/da/Taj-Mahal.jpg"
+    },
+    {
+        "pays": "Inde",
+        "nom": "Temple d'Or",
+        "description": " Sanctuaire spirituel et centre religieux des Sikhs, situe à Amritsar, entoure d’un bassin sacre.",
+        "safety": "55.7",
+        "urlimage": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Hamandir_Sahib_%28Golden_Temple%29.jpg/640px-Hamandir_Sahib_%28Golden_Temple%29.jpg"
+    },
+    {
+        "pays": "Tunisie",
+        "nom": "Carthage",
+        "description": "Les ruines de l'ancienne ville de Carthage, un site archeologique emblematique, classe au patrimoine mondial de l'UNESCO.",
+        "safety": "55.6",
+        "urlimage": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Ruines_de_Carthage.jpg/640px-Ruines_de_Carthage.jpg"
+    },
+    {
+        "pays": "Tunisie",
+        "nom": "Sidi Bou Said",
+        "description": "Un village pittoresque a flanc de colline, connu pour ses maisons blanches et bleues et ses vues imprenables sur la mer Mediterranee.",
+        "safety": "55.6",
+        "urlimage": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Sidi_Bou_Said_%2827731774179%29.jpg/640px-Sidi_Bou_Said_%2827731774179%29.jpg"
+    },
+    {
+        "pays": "Tunisie",
+        "nom": "El Djem",
+        "description": "Un amphitheâtre romain bien conserve, l'un des plus grands au monde, utilise pour des spectacles et des combats de gladiateurs.",
+        "safety": "55.6",
+        "urlimage": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Amphitheater_at_El_Djem.jpg/640px-Amphitheater_at_El_Djem.jpg"
+    },
+    {
+        "pays": "Tunisie",
+        "nom": "Matmata",
+        "description": "Un village berbeere celeebre pour ses habitations troglodytes, creusees dans les montagnes.",
+        "safety": "55.6",
+        "urlimage": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Matmata_1992_06.jpg/640px-Matmata_1992_06.jpg"
+    },
+    {
+        "pays": "Tunisie",
+        "nom": "Hammamet",
+        "description": "Une station balneaire populaire, avec des plages de sable fin, des hôtels de luxe et une medina pittoresque.",
+        "safety": "55.6",
+        "urlimage": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Hammamet_Kasba_R03.jpg/640px-Hammamet_Kasba_R03.jpg"
+    },
+    {
+        "pays": "Tunisie",
+        "nom": "Kerkouane",
+        "description": "Les ruines d'une ancienne ville punique, classees au patrimoine mondial de l'UNESCO.",
+        "safety": "55.6",
+        "urlimage": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Kerkouane_-_panorama.jpg/640px-Kerkouane_-_panorama.jpg"
+    },
+    {
+        "pays": "Tunisie",
+        "nom": "Mahdia",
+        "description": "Une ville côtieere avec des plages tranquilles, des ruines historiques et des vestiges de l'Empire ottoman.",
+        "safety": "55.6",
+        "urlimage": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Mahdia_des_de_la_Torre_Obscura.jpg/640px-Mahdia_des_de_la_Torre_Obscura.jpg"
+    },
+    {
+        "pays": "Tunisie",
+        "nom": "Cap Bon",
+        "description": "Une region de la Tunisie avec des plages magnifiques, des oliveraies et des sites archeologiques.",
+        "safety": "55.6",
+        "urlimage": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Cap_Bon.jpg/640px-Cap_Bon.jpg"
+    },
+    {
+        "pays": "Canada",
+        "nom": "Banff National Park",
+        "description": "Un parc national dans les montagnes Rocheuses, celeebre pour ses lacs et paysages spectaculaires.",
+        "safety": "54.8",
+        "urlimage": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Lake_Agnes_im_Banff_National_Park.jpg/640px-Lake_Agnes_im_Banff_National_Park.jpg"
+    },
+    {
+        "pays": "Canada",
+        "nom": "Banff National Park",
+        "description": "Le plus ancien parc national du Canada, connu pour ses montagnes spectaculaires et ses lacs alpins.",
+        "safety": "54.8",
+        "urlimage": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Moraine_Lake-Banff_NP.JPG/640px-Moraine_Lake-Banff_NP.JPG"
+    },
+    {
+        "pays": "Canada",
+        "nom": "Banff National Park",
+        "description": "Le plus ancien parc national du Canada, avec des montagnes, des lacs et une faune abondante.",
+        "safety": "54.8",
+        "urlimage": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Moraine_Lake_17092005.jpg/640px-Moraine_Lake_17092005.jpg"
+    },
+    {
+        "pays": "Maroc",
+        "nom": "Ouarzazate",
+        "description": "Connue sous le nom de porte du desert, elle est celeebre pour ses kasbahs et ses paysages a couper le souffle.",
+        "safety": "53.5",
+        "urlimage": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Kasbah_Taourirt_in_Ouarzazate_2011.jpg/640px-Kasbah_Taourirt_in_Ouarzazate_2011.jpg"
+    },
+    {
+        "pays": "Maroc",
+        "nom": "Marrakech",
+        "description": "Une ville historique celeebre pour ses marches, ses jardins et ses palais.",
+        "safety": "53.5",
+        "urlimage": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Marrakech_%283778695365%29.jpg/640px-Marrakech_%283778695365%29.jpg"
+    },
+    {
+        "pays": "Maroc",
+        "nom": "Vallee des Merveilles ",
+        "description": "Situee dans le Haut Atlas, cette vallee est connue pour ses paysages à couper le souffle et ses villages berbères traditionnels",
+        "safety": "53.5",
+        "urlimage": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Pano_Vall%C3%A9e_des_Merveilles_abc10.jpg/640px-Pano_Vall%C3%A9e_des_Merveilles_abc10.jpg"
+    },
+    {
+        "pays": "Australie",
+        "nom": "Great Barrier Reef",
+        "description": "Le plus grand recif corallien du monde, situe au large de la côte du Queensland.",
+        "safety": "52.9",
+        "urlimage": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Great_Barrier_Reef_off_Cairns_coast_%28Ank_Kumar%29_05.jpg/640px-Great_Barrier_Reef_off_Cairns_coast_%28Ank_Kumar%29_05.jpg"
+    },
+    {
+        "pays": "Australie",
+        "nom": "Sydney Opera House",
+        "description": "Un celeebre bâtiment d'opera a Sydney, reconnu pour son architecture distinctive en forme de voiles.",
+        "safety": "52.9",
+        "urlimage": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Sydney_Opera_House_-_Dec_2008.jpg/640px-Sydney_Opera_House_-_Dec_2008.jpg"
+    },
+    {
+        "pays": "Australie",
+        "nom": "Uluru (Ayers Rock)",
+        "description": "Un immense monolithe de grès situé au cœur du désert australien, sacré pour les peuples aborigènes.",
+        "safety": "52.9",
+        "urlimage": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Petermann_Ranges_%28AU%29%2C_Uluru-Kata_Tjuta_National_Park%2C_Uluru_--_2019_--_3679-83.jpg/640px-Petermann_Ranges_%28AU%29%2C_Uluru-Kata_Tjuta_National_Park%2C_Uluru_--_2019_--_3679-83.jpg"
+    },
+    {
+        "pays": "Italie",
+        "nom": "Colisee",
+        "description": "Un amphitheâtre romain emblematique a Rome.",
+        "safety": "52.7",
+        "urlimage": "https://th.bing.com/th/id/OIP.4SkVLPfBZ03ZO4J8sQFBrgHaEW?rs=1&pid=ImgDetMain"
+    },
+    {
+        "pays": "Egypte",
+        "nom": "Pyramides de Gizeh",
+        "description": "Anciennes pyramides egyptiennes, dont la grande pyramide de Kheops.",
+        "safety": "52.7",
+        "urlimage": "https://th.bing.com/th/id/OIP.yEMsMfPoVZ3d9gfzYOFZogHaFj?rs=1&pid=ImgDetMain"
+    },
+    {
+        "pays": "Italie",
+        "nom": "Capri",
+        "description": "Une ile mediterraneenne celeebre pour ses paysages spectaculaires et ses villas.",
+        "safety": "52.7",
+        "urlimage": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Capri_Centre_Belvedere.jpg/640px-Capri_Centre_Belvedere.jpg"
+    },
+    {
+        "pays": "Egypte",
+        "nom": "Giza Necropolis",
+        "description": "Le site des pyramides et du Sphinx.",
+        "safety": "52.7",
+        "urlimage": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/All_Gizah_Pyramids.jpg/640px-All_Gizah_Pyramids.jpg"
+    },
+    {
+        "pays": "Egypte",
+        "nom": "Luxor Temple",
+        "description": "Un temple antique situe sur la rive est du Nil, a Louxor.",
+        "safety": "52.7",
+        "urlimage": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/02010_05762_Luxor_Temple.jpg/640px-02010_05762_Luxor_Temple.jpg"
+    },
+    {
+        "pays": "Italie",
+        "nom": "Colosseum",
+        "description": "Un amphitheâtre romain emblematique situe a Rome, autrefois le site de combats de gladiateurs.",
+        "safety": "52.7",
+        "urlimage": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Colosseum_in_Rome-April_2007-1-_copie_2B.jpg/640px-Colosseum_in_Rome-April_2007-1-_copie_2B.jpg"
+    },
+    {
+        "pays": "Egypte",
+        "nom": "Pyramide de Djeser",
+        "description": "La plus ancienne pyramide d'Egypte, un monument majeur de l'architecture egyptienne ancienne.",
+        "safety": "52.7",
+        "urlimage": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Egypt-12B-047_-_Step_Pyramid_Complex_of_Djoser.jpg/640px-Egypt-12B-047_-_Step_Pyramid_Complex_of_Djoser.jpg"
+    },
+    {
+        "pays": "Egypte",
+        "nom": "Cairo Museum",
+        "description": "Le musee egyptien, qui abrite une vaste collection d'artefacts anciens, y compris le tresor de Toutânkhamon.",
+        "safety": "52.7",
+        "urlimage": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Museum_of_Egyptian_Antiquities_%28Cairo%29_4.jpg/640px-Museum_of_Egyptian_Antiquities_%28Cairo%29_4.jpg"
+    },
+    {
+        "pays": "Italie",
+        "nom": "Côte Amalfitaine",
+        "description": " Une côte pittoresque, classee au patrimoine mondial de l’UNESCO, celèbre pour ses villages perches et ses vues spectaculaires sur la Mediterranee.",
+        "safety": "52.7",
+        "urlimage": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Amalfi_Coast_from_boat.jpg/640px-Amalfi_Coast_from_boat.jpg"
+    },
+    {
+        "pays": "Royaume-Uni",
+        "nom": "Stonehenge",
+        "description": "Un cercle de pierres prehistorique en Angleterre.",
+        "safety": "52.6",
+        "urlimage": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Stonehenge_from_the_north.jpg/640px-Stonehenge_from_the_north.jpg"
+    },
+    {
+        "pays": "Royaume-Uni",
+        "nom": "Château d'Édimbourg",
+        "description": "Un château historique perché sur une colline volcanique, offrant une vue imprenable sur la capitale écossaise.",
+        "safety": "52.6",
+        "urlimage": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Ch%C3%A2teau_d%27%C3%89dimbourg_%28Edinburgh_Castle%29.JPG/640px-Ch%C3%A2teau_d%27%C3%89dimbourg_%28Edinburgh_Castle%29.JPG"
+    },
+    {
+        "pays": "Royaume-Uni",
+        "nom": "Abbaye de Westminster",
+        "description": "Un site emblematique de Londres, connu pour ses couronnements royaux et ses sepultures historiques.",
+        "safety": "52.6",
+        "urlimage": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Abbaye_de_Westminster_%28Londres%2C_Angleterre%29_%282%29.jpg/640px-Abbaye_de_Westminster_%28Londres%2C_Angleterre%29_%282%29.jpg"
+    },
+    {
+        "pays": "Ethiopie",
+        "nom": "The Rock-Hewn Churches of Lalibela",
+        "description": "Des eglises monolithiques taillees dans la roche, un site du patrimoine mondial de l'UNESCO.",
+        "safety": "49.2",
+        "urlimage": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Rock-Hewn_Churches%2C_Lalibela-107577.jpg/640px-Rock-Hewn_Churches%2C_Lalibela-107577.jpg"
+    },
+    {
+        "pays": "Ethiopie",
+        "nom": "Simien Mountains",
+        "description": "Un site du patrimoine mondial, celeebre pour ses paysages montagneux spectaculaires et sa faune endemique.",
+        "safety": "49.2",
+        "urlimage": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Semien_Mountains_02.jpg/640px-Semien_Mountains_02.jpg"
+    },
+    {
+        "pays": "Ethiopie",
+        "nom": "Fasil Ghebbi",
+        "description": "Un ensemble de palais et de fortifications, inscrit au patrimoine mondial de l'UNESCO, a Gondar.",
+        "safety": "49.2",
+        "urlimage": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Fasil_Ghebbi_%286821474963%29.jpg/640px-Fasil_Ghebbi_%286821474963%29.jpg"
+    },
+    {
+        "pays": "Cambodge",
+        "nom": "Angkor Wat",
+        "description": "Un temple hindou ancien, le plus grand monument religieux au monde.",
+        "safety": "47.2",
+        "urlimage": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/20171126_Angkor_Wat_4712_DxO.jpg/640px-20171126_Angkor_Wat_4712_DxO.jpg"
+    },
+    {
+        "pays": "Mexique",
+        "nom": "Chichen Itza",
+        "description": "Ruines de la civilisation maya, celebre pour la pyramide de Kukulcán.",
+        "safety": "46.2",
+        "urlimage": "https://th.bing.com/th/id/OIP.BBtlaeR8YrPiXZf9iwDAYQHaFj?w=240&h=180&c=7&r=0&o=5&pid=1.7"
+    },
+    {
+        "pays": "Mexique",
+        "nom": "Palenque",
+        "description": "Ruines mayas antiques, connues pour leurs temples et pyramides.",
+        "safety": "46.2",
+        "urlimage": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/055_Palenque_Pakal_Maji_%2829%29.JPG/640px-055_Palenque_Pakal_Maji_%2829%29.JPG"
+    },
+    {
+        "pays": "Mexique",
+        "nom": "Chichen Itza",
+        "description": "Un site archeologique maya avec la pyramide d'El Castillo, situee dans la peninsule du Yucatán.",
+        "safety": "46.2",
+        "urlimage": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Chichen_Itza_2.jpg/640px-Chichen_Itza_2.jpg"
+    },
+    {
+        "pays": "Tanzanie",
+        "nom": "Mount Kilimanjaro",
+        "description": "Le plus haut sommet d'Afrique, un volcan dormant.",
+        "safety": "45.5",
+        "urlimage": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Mount_Kilimanjaro.jpg/640px-Mount_Kilimanjaro.jpg"
+    },
+    {
+        "pays": "Tanzanie",
+        "nom": "Zanzibar",
+        "description": "Une ile tropicale celeebre pour ses plages, son histoire et son influence arabe.",
+        "safety": "45.5",
+        "urlimage": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Zanzibar_Island.jpg/640px-Zanzibar_Island.jpg"
+    },
+    {
+        "pays": "Tanzanie",
+        "nom": "Lake Tanganyika",
+        "description": "Le deuxieeme plus grand lac d'Afrique, situe dans la vallee du rift.",
+        "safety": "45.5",
+        "urlimage": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Oldest_ship_in_lake_Tanganyika.jpg/640px-Oldest_ship_in_lake_Tanganyika.jpg"
+    },
+    {
+        "pays": "Ouganda",
+        "nom": "Lake Victoria",
+        "description": "Le plus grand lac d'Afrique, un centre economique et culturel important pour la region.",
+        "safety": "45.0",
+        "urlimage": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Lake_Victoria_Morning_Tranquility.jpg/640px-Lake_Victoria_Morning_Tranquility.jpg"
+    },
+    {
+        "pays": "France",
+        "nom": "Tour Eiffel",
+        "description": "Un monument emblematique de Paris et l'une des structures les plus reconnaissables au monde.",
+        "safety": "44.7",
+        "urlimage": "https://upload.wikimedia.org/wikipedia/commons/a/a8/Tour_Eiffel_Wikimedia_Commons.jpg"
+    },
+    {
+        "pays": "France",
+        "nom": "Palais de Versailles",
+        "description": "Ancienne residence royale francaise.",
+        "safety": "44.7",
+        "urlimage": "https://th.bing.com/th/id/OIP.JcNZQLbaopD0ivIHxT_Q-gHaE7?w=238&h=180&c=7&r=0&o=5&pid=1.7"
+    },
+    {
+        "pays": "France",
+        "nom": "Palais des Papes",
+        "description": "Un palais gothique situe a Avignon, sieege des papes au Moyen Âge.",
+        "safety": "44.7",
+        "urlimage": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Avignon%2C_Palais_des_Papes_by_JM_Rosier.jpg/640px-Avignon%2C_Palais_des_Papes_by_JM_Rosier.jpg"
+    },
+    {
+        "pays": "France",
+        "nom": "La Seine",
+        "description": "Un fleuve qui traverse Paris, borde de monuments celeebres.",
+        "safety": "44.7",
+        "urlimage": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Seine_Pont_Royal_Louvre_Paris.jpg/640px-Seine_Pont_Royal_Louvre_Paris.jpg"
+    },
+    {
+        "pays": "France",
+        "nom": "Louvre Museum",
+        "description": "Le musee d'art le plus celeebre du monde, situe a Paris.",
+        "safety": "44.7",
+        "urlimage": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Cour_Napol%C3%A9on_at_night_-_Louvre.jpg/640px-Cour_Napol%C3%A9on_at_night_-_Louvre.jpg"
+    },
+    {
+        "pays": "France",
+        "nom": "Notre-Dame de Paris",
+        "description": "Une cathedrale gothique emblematique situee sur l'ile de la Cite a Paris.",
+        "safety": "44.7",
+        "urlimage": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Notre-Dame_de_Paris_and_%C3%8Ele_de_la_Cit%C3%A9_at_dusk_140516_1.jpg/640px-Notre-Dame_de_Paris_and_%C3%8Ele_de_la_Cit%C3%A9_at_dusk_140516_1.jpg"
+    },
+    {
+        "pays": "France",
+        "nom": "Palace of Versailles",
+        "description": "Un somptueux palais royal avec des jardins a la francaise, representant la grandeur du reegne de Louis XIV.",
+        "safety": "44.7",
+        "urlimage": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Palace_of_Versailles_June_2010.jpg/640px-Palace_of_Versailles_June_2010.jpg"
+    },
+    {
+        "pays": "France",
+        "nom": "Château de Chambord ",
+        "description": "Chef-d'œuvre de la Renaissance française, ce château majestueux est entoure par la plus grande forêt close d'Europe",
+        "safety": "44.7",
+        "urlimage": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Chambord_Castle_Northwest_facade.jpg/640px-Chambord_Castle_Northwest_facade.jpg"
+    },
+    {
+        "pays": "Kenya",
+        "nom": "Elephant Orphanage",
+        "description": "Un sanctuaire pour les elephants orphelins, permettant aux visiteurs de voir ces animaux majestueux de prees.",
+        "safety": "43.6",
+        "urlimage": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Pinnnawale_Elephant_Orphanage_%287568424554%29.jpg/640px-Pinnnawale_Elephant_Orphanage_%287568424554%29.jpg"
+    },
+    {
+        "pays": "Zimbabwe",
+        "nom": "Victoria Falls",
+        "description": "L'une des plus grandes chutes d'eau du monde.",
+        "safety": "39.1",
+        "urlimage": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Lunar_Rainbow_at_Victoria_Falls_HP_L2778e2.jpg/640px-Lunar_Rainbow_at_Victoria_Falls_HP_L2778e2.jpg"
+    },
+    {
+        "pays": "Zimbabwe",
+        "nom": "Great Zimbabwe",
+        "description": "Les ruines d'une ancienne cite qui abritait la civilisation de Great Zimbabwe, avec des structures en pierre impressionnantes.",
+        "safety": "39.1",
+        "urlimage": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Great-Zimbabwe-still-standing_strong.jpg/640px-Great-Zimbabwe-still-standing_strong.jpg"
+    },
+    {
+        "pays": "Namibie",
+        "nom": "Dune 45",
+        "description": "Une des dunes les plus celeebres du desert du Namib, atteignant 170 meetres de hauteur.",
+        "safety": "36.1",
+        "urlimage": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Sossusvlei_Dune_Namib_Desert_Namibia_Luca_Galuzzi_2004.JPG/640px-Sossusvlei_Dune_Namib_Desert_Namibia_Luca_Galuzzi_2004.JPG"
+    },
+    {
+        "pays": "Bolivie",
+        "nom": "Salar de Uyuni",
+        "description": "Le plus grand desert de sel au monde, une etendue blanche spectaculaire.",
+        "safety": "35.4",
+        "urlimage": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Watching_Sunset_Salar_de_Uyuni_Bolivia_Luca_Galuzzi_2006.jpg/640px-Watching_Sunset_Salar_de_Uyuni_Bolivia_Luca_Galuzzi_2006.jpg"
+    },
+    {
+        "pays": "Bolivie",
+        "nom": "Laguna Colorada",
+        "description": "Un lac salé d'une couleur rouge spectaculaire, situé dans la réserve nationale Eduardo Avaroa, abritant de nombreux flamants roses.",
+        "safety": "35.4",
+        "urlimage": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/James%27s_Flamingoes_in_Laguna_Colorada%2C_Bolivia.jpg/640px-James%27s_Flamingoes_in_Laguna_Colorada%2C_Bolivia.jpg"
+    },
+    {
+        "pays": "Bolivie",
+        "nom": "Lac Titicaca",
+        "description": "Le lac navigable le plus haut du monde, situé à la frontière entre la Bolivie et le Pérou, entouré de montagnes et de villages traditionnels.",
+        "safety": "35.4",
+        "urlimage": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Panorama_Lac_Titicaca_-_D%C3%A9cembre_2006.jpg/640px-Panorama_Lac_Titicaca_-_D%C3%A9cembre_2006.jpg"
+    },
+    {
+        "pays": "Afrique du Sud",
+        "nom": "Table Mountain",
+        "description": "Une montagne emblematique avec une vue imprenable sur la ville du Cap.",
+        "safety": "24.6",
+        "urlimage": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Cape_Town_%28ZA%29%2C_Table_Mountain_--_2024_--_3437.jpg/640px-Cape_Town_%28ZA%29%2C_Table_Mountain_--_2024_--_3437.jpg"
+    },
+    {
+        "pays": "Afrique du Sud",
+        "nom": "Cape of Good Hope",
+        "description": "Un cap celeebre pour son importance historique en tant que point de passage pour les explorateurs europeens.",
+        "safety": "24.6",
+        "urlimage": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Castle_of_Good_Hope%2C_Cape_Town_01.jpg/640px-Castle_of_Good_Hope%2C_Cape_Town_01.jpg"
+    },
+    {
+        "pays": "Afrique du Sud",
+        "nom": "Blyde River Canyon",
+        "description": "Le troisieeme plus grand canyon du monde, connu pour ses vues spectaculaires et sa biodiversite.",
+        "safety": "24.6",
+        "urlimage": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Blyde_River_Canyon_Nature_Reserve_%28ZA%29%2C_Blyde_River%2C_Bourke%27s_Luck_Potholes%2C_Blyde_River_Canyon_--_2024_--_0024.jpg/640px-Blyde_River_Canyon_Nature_Reserve_%28ZA%29%2C_Blyde_River%2C_Bourke%27s_Luck_Potholes%2C_Blyde_River_Canyon_--_2024_--_0024.jpg"
+    },
+    {
+        "pays": "Afrique du Sud",
+        "nom": "Durban",
+        "description": "Une ville côtieere vibrante, connue pour ses plages et sa culture Zulu.",
+        "safety": "24.6",
+        "urlimage": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Durban_%282%29.JPG/640px-Durban_%282%29.JPG"
+    }
+]

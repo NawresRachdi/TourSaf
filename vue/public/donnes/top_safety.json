@@ -1,0 +1,72 @@
+[
+    {
+        "pays": "Emirats Arabes Unis",
+        "safety_percentage": 84.4000015258789,
+        "lieu_touristique": "Burj Khalifa",
+        "information": "Le plus haut gratte-ciel du monde, une icône de l'architecture moderne.",
+        "url_image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Front_view_from_Burj_Khalifa_Metro_Station.jpg/640px-Front_view_from_Burj_Khalifa_Metro_Station.jpg"
+    },
+    {
+        "pays": "Emirats Arabes Unis",
+        "safety_percentage": 84.4000015258789,
+        "lieu_touristique": "Mosquee Sheikh Zayed",
+        "information": "Une des plus grandes mosquees au monde, connue pour sa beaute architecturale et ses materiaux luxueux (marbre, or, cristal)",
+        "url_image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Sheikh_Zayed_Grand_Mosque_%40_Abu_Dhabi_%2815421870344%29.jpg/640px-Sheikh_Zayed_Grand_Mosque_%40_Abu_Dhabi_%2815421870344%29.jpg"
+    },
+    {
+        "pays": "Japon",
+        "safety_percentage": 77.4000015258789,
+        "lieu_touristique": "Mont Fuji",
+        "information": "Le sommet le plus eleve du Japon, un volcan majestueux.",
+        "url_image": "https://th.bing.com/th/id/OIP.ehpfGHJI6VEwzqRE5_1QXwHaE9?w=315&h=180&c=7&r=0&o=5&pid=1.7"
+    },
+    {
+        "pays": "Chine",
+        "safety_percentage": 75.0999984741211,
+        "lieu_touristique": "Grande Muraille de Chine",
+        "information": "Une ancienne serie de murs et de fortifications, symbole de l'ingeniosite architecturale chinoise.",
+        "url_image": "https://th.bing.com/th/id/OIP.h1Kr4DxTPHcBmFoJz1lxxAHaE4?rs=1&pid=ImgDetMain"
+    },
+    {
+        "pays": "Chine",
+        "safety_percentage": 75.0999984741211,
+        "lieu_touristique": "Mont Huangshan",
+        "information": " Celèbres pour leurs paysages spectaculaires, leurs pins uniques, et leurs formations rocheuses mysterieuses",
+        "url_image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Mount-huangshan_53320837763_o.jpg/640px-Mount-huangshan_53320837763_o.jpg"
+    },
+    {
+        "pays": "Chine",
+        "safety_percentage": 75.0999984741211,
+        "lieu_touristique": "The Great Wall of China",
+        "information": "Une ancienne fortification en Chine, s'etendant sur plus de 21 000 kilomeetres.",
+        "url_image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/20090529_Great_Wall_8185.jpg/640px-20090529_Great_Wall_8185.jpg"
+    },
+    {
+        "pays": "Islande",
+        "safety_percentage": 74.5999984741211,
+        "lieu_touristique": "Blue Lagoon",
+        "information": "Un spa geothermique avec des eaux chaudes et minerales.",
+        "url_image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/The_Blue_Lagoon_2.jpg/640px-The_Blue_Lagoon_2.jpg"
+    },
+    {
+        "pays": "Croatie",
+        "safety_percentage": 74.0,
+        "lieu_touristique": "Dubrovnik",
+        "information": "Surnommee la « Perle de l’Adriatique », cette ville medievale fortifiee est bordee par des eaux cristallines.",
+        "url_image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Dubrovnik_2016-05-26_DSC06252_view_from_the_wall.jpg/640px-Dubrovnik_2016-05-26_DSC06252_view_from_the_wall.jpg"
+    },
+    {
+        "pays": "Croatie",
+        "safety_percentage": 74.0,
+        "lieu_touristique": "Parc National des Lacs de Plitvice",
+        "information": "Un ensemble de lacs en terrasses relies par des cascades spectaculaires, entoures de forêts luxuriantes.",
+        "url_image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Croatia_-_Plitvice_Lakes_National_Park.jpg/640px-Croatia_-_Plitvice_Lakes_National_Park.jpg"
+    },
+    {
+        "pays": "Norvège",
+        "safety_percentage": 67.4000015258789,
+        "lieu_touristique": "Îles Lofoten ",
+        "information": " Un archipel connu pour ses paysages spectaculaires, ses villages de pêcheurs traditionnels et ses aurores boreales.",
+        "url_image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Reine_i_Lofoten_LC0148.jpg/640px-Reine_i_Lofoten_LC0148.jpg"
+    }
+]
